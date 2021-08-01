@@ -3170,11 +3170,7 @@ input[type="button"].btn-block {
     border-radius: 1rem; }
 
 .nav {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+  text-align: center;
   padding-left: 0;
   margin-bottom: 0;
   list-style: none; }
@@ -9000,7 +8996,7 @@ textarea.form-control {
 }
 .mask .img-box {
   width: 80%;
-  max-width: 590px;
+  max-width: 500px;
   padding: 10px;
   background: #fff;
   position: relative;
